@@ -21,4 +21,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: IDS706/myapp:latest
+          tags: hongji1001/myapp:latest
